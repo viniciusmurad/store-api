@@ -20,10 +20,6 @@ Activate a virtualenv:
 
 ``` pipenv shell ```
 
-Create new migrations using:
-
-``` python manage.py makemigrations ```
-
 Apply migrations using:
 
 ``` python manage.py migrate ```
