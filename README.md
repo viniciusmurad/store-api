@@ -26,7 +26,7 @@ Create new migrations using:
 
 Apply migrations using:
 
-``` python manage.py makemigrations ```
+``` python manage.py migrate ```
 
 Run server using:
 
